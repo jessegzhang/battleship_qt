@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/BShipQT">
+        <file>Resources/genSplash_fortesting.jpg</file>
+    </qresource>
+</RCC>
